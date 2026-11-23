@@ -30,6 +30,8 @@ These checks exercise deterministic simulation and synthetic pose inputs. They d
 
 `media/gameplay-4k.png` is an existing 3840 × 2160 CourtVision engine capture prepared on November 5, 2026. `media/gameplay.png` is its smaller viewing copy. Neither is an AI-generated concept image.
 
+`media/rally-1080p.mp4` is a 20-second, 1,200-frame rally rendered on November 23, 2026 by the packaged native game's motion-capture mode (`-cvmotionlab=rally -cvmotioncamera=gameplay -cvmotionfullquality`, 1920 × 1080, one frame per 1/60-second simulation step). Both players are computer-controlled and sound is off. The capture's frame label was cropped from the top edge and the frame rescaled to 1920 × 1080. Because every simulation frame is rendered, the 60 FPS playback is not a measured game frame rate. `media/rally.gif` is the first 12 seconds at 720 px and 12 FPS.
+
 ## Repository scope
 
 This is a curated source showcase assembled from the native project. It preserves the C++ module and Swift source alongside standalone tests. Packaged binaries, Unreal content, engine files, and large source art are excluded. The earlier Baseline browser game is separately hosted and is not the native version pictured here.

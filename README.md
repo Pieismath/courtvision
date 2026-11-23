@@ -4,11 +4,15 @@ I'm building a tennis game that turns an ordinary webcam into a motion controlle
 
 Built by Jason Fang with AI-assisted development using Codex. The project began as a Three.js / MediaPipe browser prototype and developed into a native Unreal Engine C++ game with a Swift / Apple Vision motion companion and a Blender asset pipeline.
 
+![A rally in the native CourtVision build](media/rally.gif)
+
+[Watch the full 20-second rally in 1080p](media/rally-1080p.mp4) · [View a 4K still](media/gameplay-4k.png)
+
+A 10-shot rally recorded with the game's built-in capture mode. Both players are computer-controlled in this clip, and it has no sound.
+
 ![Actual CourtVision native-game capture](media/gameplay.png)
 
-[View the full 4K game capture](media/gameplay-4k.png)
-
-The image above is an actual capture of the native game. This repository presents native source, tests, and development documentation; it does not contain a downloadable native game or the Unreal content needed to rebuild the full scene.
+The clip and the image above are actual captures of the native game. This repository presents native source, tests, and development documentation; it does not contain a downloadable native game or the Unreal content needed to rebuild the full scene.
 
 ## What I built
 
