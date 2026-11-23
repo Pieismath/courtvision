@@ -6,9 +6,9 @@ Built by Jason Fang with AI-assisted development using Codex. The project began 
 
 ![Actual CourtVision native-game capture](media/gameplay.png)
 
-[View the full 4K game capture](media/gameplay-4k.png) · [Play the earlier browser prototype](https://baseline-motion-tennis.jhfang.chatgpt.site)
+[View the full 4K game capture](media/gameplay-4k.png)
 
-The browser link is **Baseline**, an earlier and visually simpler implementation. The image above is **CourtVision**, the native game. This repository presents native source, tests, and development documentation; it does not contain a downloadable native game or the Unreal content needed to rebuild the full scene.
+The image above is an actual capture of the native game. This repository presents native source, tests, and development documentation; it does not contain a downloadable native game or the Unreal content needed to rebuild the full scene.
 
 ## What I built
 
